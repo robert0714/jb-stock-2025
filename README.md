@@ -34,3 +34,8 @@ Our Reactive Spring Boot tutorial is finally complete! So our end-of-year gift t
 ### Live Demo VideoCopy heading link
 
 (Also [available on InfoQ,](https://www.infoq.com/presentations/spring-reactor-kotlin-javafx-mongodb/) which I mention in case you have the [InfoQ Android video app](https://play.google.com/store/apps/details?id=com.infoq.videos&hl=en) and want to download the video to watch offline)
+
+Tutorial: JavaFX with Spring Boot Part-02: Basic Integration
+============================== 
+* https://harunzafer.com/blog/javafx-spring-boot-02
+* https://github.com/harunzafer/javafx-spring-boot-starter/tree/v0.5
